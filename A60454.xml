@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vision of Humphrey Smith, which he saw concerning London, in the fifth month, in the year 1660 being not long after her King came to her.</title>
+            <author>Smith, Humphrey, d. 1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60454</idno>
+            <idno type="STC">Wing S4084</idno>
+            <idno type="STC">ESTC R15012</idno>
+            <idno type="EEBO-CITATION">11923498</idno>
+            <idno type="OCLC">ocm 11923498</idno>
+            <idno type="VID">50994</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60454)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50994)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 824:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vision of Humphrey Smith, which he saw concerning London, in the fifth month, in the year 1660 being not long after her King came to her.</title>
+                  <author>Smith, Humphrey, d. 1663.</author>
+               </titleStmt>
+               <extent>7, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Duke University Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint information from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="title">
+            <pb facs="tcp:50994:1"/>
+            <pb facs="tcp:50994:1" rendition="simple:additions"/>
+            <p>THE VISION OF Humphrey Smith, Which he ſaw concerning LONDON, In the fifth month, in the year 1660. being not long after her KING came into her.</p>
+            <q>
+               <p>The Prophet ſpeaking of the pouring forth of the Spirit in the later dayes ſaith, That then the young men ſhall ſee viſions.</p>
+               <bibl>Joel 2. 28.</bibl>
+            </q>
+            <q>
+               <p>And the wiſe King ſaid where there is no Viſion the people periſh.</p>
+               <bibl>Pro. 29. 18.</bibl>
+            </q>
+            <q>
+               <p>And the true Miniſter of Chriſt ſaid, I will come to Viſions and Revelations of the Lord.</p>
+               <bibl>2 Cor. 12. 1.</bibl>
+            </q>
+         </div>
+         <div type="text">
+            <div type="part">
+               <head>Concerning the Great City of London.</head>
+               <p>I Beheld all her waters which belonged to her frozen up, and that ex<g ref="char:EOLhyphen"/>ceeding hard, and the veſſels which went upon them, ſo that I and others paſſed over her waters without the leaſt danger, and over the greateſt veſſels which had carried her merchandize; For all was frozen with a mighty freezing, whereby all her goodly merchandize were ſtopt, and her mighty ſwift waters were turned into a mighty thick frozen ice, which ſtood ſtill, ſo that her pleaſant ſtreams ran no more.</p>
+               <pb n="2" facs="tcp:50994:2"/>
+               <p>And as for the City her ſelf and her ſuburbs, and all that belonged to her, a fire was kindled therein, but ſhe knew not how, even in all her goodly places, and the kindling of it was in the foundations of all her buildings, and there was none could quench it, for it was like an inviſible fire, neither was there any able, neither did any ſeek to quench it; and the burning thereof was exceeding great, and it burned inward in a hidden manner, which cannot be expreſſed, and the fire conſumed all foundations which the City ſtood upon, and all the tall buildings fell, and it conſumed all the lofty things therein, and the fire ſearched out all the hidden places, and burned moſt in the ſecret places, yet very little of the fire appeared, but the conſumation was exceeding great, wherewith it conſumed everything.</p>
+               <p>And as I paſſed through her ſtreets, I beheld her ſtate to be very mi<g ref="char:EOLhyphen"/>ſerable, and very few were thoſe that were left in her, who were but here and there one, and they feared not the fire, neither did the burn<g ref="char:EOLhyphen"/>ings hurt them, but they were (and walked) as mournfull dejected peo<g ref="char:EOLhyphen"/>ple, and the fire burned every where, ſo that there was no eſcaping of it; And thus ſhe became a deſolation, and as an aſtoniſhment, for the burn<g ref="char:EOLhyphen"/>ing was of God, and could never be quenched nor overcome; and in the midſt of her waters was the veſſel of her merchandize frozen up, that none could move it, and there was none that ſought to ſtop the burning, and the fire conſumed all things both ſtone and timber, and it burned under all things and under all foundations, And that which was lifted up above it fell down, and the fire con<g ref="char:EOLhyphen"/>ſumed it, and the burning continued; for though the foundation was burnt up, and all the lofty part brought down (by the fire) yet there was much old ſtuffe, and part of broken deſolate walls and buildings in the midſt, which the fire continued burning againſt; And that which was taken as to make uſe of, which yet eſcaped the fire, became uſeleſſe in mans hand as a thing of nought. And the Viſion hereof remained in me as a thing that was ſecretly ſhewed me of the Lord.</p>
+               <p>
+                  <hi>And now let her wiſe men find out the matter, and her prudent men read the Parable, and her Divines (ſo called) interpret the Viſion, (And let her know that her day is at hand) And let every one of them look to their own wayes.</hi>
+               </p>
+               <p>And as for thee, O City of <hi>London,</hi> thy ſin hath been exceeding grie<g ref="char:EOLhyphen"/>vous, and thy iniquities beyond meaſure; Who can number thy daily tranſgreſſions, or ſet before thee the multitude of thy abominations? Oh! thy waies have grieved the Lord, and thy works have oppreſſed the juſt, and the Lord will ſurely plead with thee, whom thou haſt long re<g ref="char:EOLhyphen"/>belled againſt, and walked in thy pride, and nouriſhed thy ſelf in volup<g ref="char:EOLhyphen"/>tuouſneſſe, as a beaſt for the ſlaughter, and in arrogancy hath thy ſteps
+<pb n="3" facs="tcp:50994:2"/> been found, Oh! thy heart hath been defiled, and thy waies are waies of grievouſneſſe, and thy paths are polluted before the Lord, and thou haſt not done the thing that is juſt in his ſight, but haſt choſen thy own waies, and truſted in thy own wiſdom. Take heed now therefore, O City of <hi>London</hi> for God will be too ſtrong for thee, and thy ſtrength ſhall fall before him, and thou muſt come to an account for thy deeds, and then where will be thy refuge, or what ſhall be thy ſhelter? will thy multi<g ref="char:EOLhyphen"/>tude of men deliver thee from God, or the greatneſſe of thy ſtrength prevail againſt the Almighty? If ſo, then mayeſt thou ſtand in thy waies O City of <hi>London,</hi> but if not, thy miſery will be great, and who ſhall bemoan thee in that day, or pity thee in the time of thy diſtreſſe? For<g ref="char:EOLhyphen"/>aſmuch as thou haſt refuſed the counſel of the Lord, and rejected the voyce of his ſervants in the midſt of thee, and hearkned not to his word in thy own bowels, but alſo ſlighted the many warnings of the Lord by his ſervants, who were ſent of him in love to thee, that thou might come to ſerve him, and not thy own pleaſure, proceeding on from year to year like a monſtrous woman, who regardeth not the voice nor perſon of husband nor friend; Oh! what ſhall be ſaid unto thee? muſt thou needs be left for deſolation? and muſt thou be left as a woman forſaken? will thy lovers help thee in the day of trouble? or thy delightſome pleaſures preſerve thy heart from judgement, or thy glorious riches hide thee from the burning torments? If thou loveſt thy wages of vanity more then God, and thy hearts luſt more than thy Maker, and wilt not turn ſpeedily from it to ſeek the Lord in thy heart, then mayeſt thou poſt on (as thou art going) haſtily to the pit, and with much eagerneſſe to the gulf of miſery, where none can help thee; And then will thy feaſting be turned into famine, thy beauty into duſt, thy glory into ſhame, and thy honour into contempt, as thou haſt ſeen it come to paſs upon others, whoſe glory and ſtrength was as great as thine, by whom thou haſt not taken warning by a through and ſpeedy returning unto the Lord with all thy heart.</p>
+               <p>Therefore will God ſearch thee and judge thee according to what is found in the midſt of thee, and thou ſhalt be awakned in the day of Gods anger, &amp; be ſenſible of the torment when it come<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h; For though God hath alſo tried thee with giving thee thy hearts deſire, yet haſt thou not been thereby humbled; and though the Lord hath viſited thee in loving kind<g ref="char:EOLhyphen"/>neſſe, yet haſt thou walked loftily; nay moreover thou haſt taken occa<g ref="char:EOLhyphen"/>ſion thereby to be the more exalted, and art going in the ſteps of them that the Lord ſo lately for ſuch things) overturned before thee, that it cannot yet be forgotten, and doſt Thou or the Rulers in thee think to eſtabliſh your ſelves by acting ſuch things, for which God overturned
+<pb n="4" facs="tcp:50994:3"/> many mightier then you? Therefore O City think not to eſtabliſh thy ſelf by blood, nor to be ſetled by way of revenge, for though ſome men may have done ſome things unjuſt againſt ſome of you (and others) ſo that God may juſtly by you ſcourge them ſore for it, yet wherein you do it in the way of revenge, or to avenge your own cauſe, or to ſet up your ſelves in ſelf ends like them before you, therein God will alſo find out a ſcourge for you. And this I have ſeen that the Great men of the earth ſtand in ſlippery places, and their great ſtrength before the Lord is as ſmoak before the wind.</p>
+               <p>My counſell is therefore, <hi>That thou fear the Lord, and turn from the way that thou art in,</hi> and let thy Judges know that the Lord will judge them, and let thy Rulers underſtand that the Lord will rule over their ſtrength and wiſdom, and let thy Teachers perceive that God is come to teach his own children. And let the Kings heart be upright before the Lord in this the day of his tryall, and time of viſitation from God, (<hi>the ſhortneſſe or length thereof being <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>id from him, over whom God ruleth as it plea<g ref="char:EOLhyphen"/>ſeth him,</hi>) who is cutting his work ſhort in righteouſneſſe; Therefore let all thy inhabitants, <hi>O thou great City,</hi> from the higheſt to the loweſt, take good heed unto their waies, and the intents which are in them, for the Lord ſeeth the ſecrets of all your hearts.</p>
+               <closer>
+                  <signed>H. S.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>ANd that thou mayeſt not altogether di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſteem of this viſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on concer<g ref="char:EOLhyphen"/>ning thee, and that thy wiſe men may not eſteem it as a thing of nought (which is publiſhed for thy good, and brought forth for thy warning, and declared to ſet before thee thy ſtate at hand, that thou mighteſt be warned before-hand, and come to find ſomething in thy ſelf, whereby thou might ſtand in the day of triall, and endure in the hour of trouble, or otherwiſe Gods ſervants might ſeale up the viſions and revelations of God in the book of ſecrets, and treaſure them up in the enlightned chambers of the heart, where God is revealing his ſecrets to thoſe that fear him) Therefore ſhall I write what hath been formerly ſhewed, moſt whereof being come to paſſe, and the reſt haſteneth.</p>
+               <p>In my former viſion, in the dayes of the former Rulers, I ſaw on a hill many trees together ſtanding which were both great and tall, but they were very old, and of a long ſtanding, and many of their lofty boughs were broken and battered, and many hanged downward, which preſſed down the trees, and they were old, withering, and decaying, and had not grown along time, &amp; were but as a wonder to the beholders, though they had been of great account, and the chief trees among (or over) the reſt; and it was ſo that I beheld them much, even with admiration, to
+<pb n="5" facs="tcp:50994:3"/> ſee ſuch trees in ſuch a ſtate, which was more to this purpoſe than is here expreſt; and I beheld untill all theſe trees were rooted up out of the earth, and ſo overturned every one, and their dead bodies lay in a con<g ref="char:EOLhyphen"/>fuſed manner, and were fallen one upon another, and the ground upon which they ſtood was broken up, and then there was ſome room and liberty, and light came in, and I walked and looked every way, both upon the light, and the great deſolation of theſe great ones. <hi>The inter<g ref="char:EOLhyphen"/>pretation whereof may be read by ſuch as can but ſee.</hi>
+               </p>
+               <p>And though this <hi>great overturning</hi> befell thoſe great, tall, and ſtrong trees, and that light came into that ground, over which thoſe fruitleſſe trees ſtood, yet I beheld round about, and near unto it much briars, brambles, and thorns in abundance, which covered the earth, and it was ſuch rubbiſh, that it was never like to be fit for any thing, but to have a fire kindled among it; And it was ſo thick and ſo ſtrong that there was no paſſing in nor through it, but onely where the narrow way was, and there alſo thoſe briars would catch on every ſide; And he that paſſed through muſt ſtoop very low; And what thoſe briars and thorns were, let thoſe brambles read, who covere<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the earth with their multitudes, in raging, ſwearing, curſing, ſhouting, roaring, and drinking the health, (as they call it) of their King at his coming.</p>
+               <p>And near unto the place of the deſtruction of thoſe great trees, was there a Child in great deſolation, in a cloſe place, where it had been a long time, and was not like yet to be releaſed, but remained in want and miſery, which mine eye pitied, and in irons, and my heart was ſadned for it, and the more becauſe none came to viſit it, nor ſuccour it; for it was in a deſolate place, and unſeemly, and few had regard un<g ref="char:EOLhyphen"/>to it, and yet there were ſome hopes it might be delivered. <hi>And this was a true reſemblance of the ſtate of the ſeed of God in all the world.</hi>
+               </p>
+               <p>And in plainneſſe concerning <hi>Oliver Cromwell,</hi> and his ſon <hi>Richard,</hi> (late called) <hi>Protectors,</hi> the viſion from God was ſhewed to me, (before the downfall of either of them) thus.</p>
+               <p>And I beheld a great and mighty tree, much bigger then ever I ſaw before, and appearing without ſap or vertue in it, or leaf, bough, or branch upon it, (much leſſe fruit) and the top of it was broad, (being all big) much like unto the top of <hi>Pauls</hi> ſteeple in <hi>London,</hi> and cloſe by this great old tree, grew up another tree, as out of his root, and be<g ref="char:EOLhyphen"/>longed to him, but not both in one body, though very near together, and ſtood both upon one foundation, and this was as a little ſtripling tree, which alſo was without leaves, or branches, or any thing to bear fruit, ſo that I admired to ſee it ſo with the young tree, for I looked for branches or leaves, but there were none.</p>
+               <pb n="6" facs="tcp:50994:4"/>
+               <p>And whilſt I was beholding of them, a man being ſent came in much haſte, with an axe in his hand, to cut down the great mighty old tree, which ſeemed ſtrange to me, that one man ſhould adventure upon ſo great a work, to cut down ſuch a tree as that, for the lower part of the tree was exceeding big, and almoſt as broad upon the earth as half the heighth; ſo that I thought he had need of three more to help him, and that one man could ſcarce cut him down with one axe, if he ſtood hew<g ref="char:EOLhyphen"/>ing all his life time; But I much more admired to ſee the confidence of the man that came with ſpeed with his axe, who made no ſtop at all, becauſe of the greatneſſe of him, nor any thing elſe, but as ſoon as ever he could get to him ſmote with the edge of his axe, and ſtroke between the ground and the tree, ſo that I ſoon perceived he intended to ſeparate between the tree and the ground on which he ſtood; and the man in the might of his ſtrength, ſtroke but three blows in all, but he ſeparated the tree from the earth on which he ſtood, and immediately the tree fell with a mighty overthrow, and the foundation of the tree was altogether rot<g ref="char:EOLhyphen"/>ten and not one root at all, but where the root ſhould be was rottenneſs, and the earth ſhook at his fall, and many Great men ſtood amazed, and fear ſeized on many, becauſe of the great ſudden fall thereof.</p>
+               <p>And as this great tree fell, I ſaw under the foundation of the young <hi>Tall Tree</hi> that ſtood near the other, and it was much like to fall preſently after, and was almoſt down on the one hand, and then almoſt down on the other, and yet it recovered and ſtood up for a time, having no root but rottenneſs; And the great tree fell from him on the one ſide, and the earth parted from him on two ſides more, ſo that onely upon one ſide in four (or leſs) the earth cleaved to him, and he being ſlender and tall without root, was not like long thus to ſtand, <hi>neither did Richard.</hi>
+               </p>
+               <p>And I likewiſe beheld many more ſmaller trees, and the man with his axe in his hand cut them all down at the butt, ſomewhat above the ground, and ſo left the ſtumps in the earth, and therefore it might be poſſible for them to grow up again; <hi>As ſome did come up again who were put down, but fell the ſecond time through diſobedience.</hi>
+               </p>
+               <p>And after all this I beheld alſo many more trees in abundance, yea more numerous then the other, coming up out of the earth, and cover<g ref="char:EOLhyphen"/>ing the face thereof, and growing up apace, which were not yet ready to be cut down; and I ſaw the man with the axe in his hand, ſtanding ſtill for a time (having cut down all the other) untill thoſe ſhould be ready to be cut down; and he waited till the time came, and was in a readineſſe with his axe in his hand ready to ſtrike, when thoſe abundance of trees ſhould come up to their growth, which haſtened. And let thoſe who are now come up read this, and let the whole C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty of
+<pb n="7" facs="tcp:50994:4"/> 
+                  <hi>London</hi> t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke heed (as I ſaid before) and repent with ſpeed, and turn to the Lord whoſe ſervant I am, called</p>
+               <closer>
+                  <signed>Humphrey Smith.</signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>WHen thoſe people to whom God gave his Ordinances and his Statutes had long reſiſted and grieved his Spirit in them, who ſaid <hi>I am Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and not man, the Holy One in the midſt of thee,</hi> and had alſo refuſed p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am Inſtructions, then the Lord ſent them the Prophet <hi>Iſaiah,</hi> who ſaid <hi>With ſtammering tongues and other lips will I ſpeak unto this people;</hi> And for a Sign was he ſent <hi>to walk naked among them.</hi> And the Prophet <hi>Ezekiel</hi> was ſent with that which they might eſteem dark Viſions and fooliſh Signes, (which were many) and hard ſayings. And <hi>Jeremiah</hi> he lamented over them. And all the Lords Prophets proclaimed againſt their Prieſts and leaders of them, <hi>which cauſed them to erre,</hi> and yet would they not be warned, nor their Prieſts leave preaching Peace unto them, nor they leave following their Prieſts untill they had crucified the Juſt, and denied him that is <hi>the Light,</hi> who ſaveth his People from their ſins; and <hi>Jeruſalem</hi> became a heap, and a deſolation, and an aſtoniſhment; and ſo both Prieſts and Peopl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> went into deſtruction and captivity together. And thy ſins, O <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ondon!</hi> may be equalized with hers, and are as many, and as grievous, and that thou mayeſt a little the better underſtand my Viſion concerning thee, therefore have I written theſe later things that concerned others, which if thou underſtand not, that which concerns thee is more myſterious.</p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> at the ſign of the <hi>Bull</hi> and <hi>Mouth,</hi> near <hi>Alderſgate,</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
